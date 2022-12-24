@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-12-24T12:39:57.271+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Required path variable 'studentID' is not present.",
+  "path": "/api/v1/students/1"
+}

@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-12-24T13:30:16.129+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "JDBC exception executing SQL [select s1_0.id,s1_0.dob,s1_0.email,s1_0.name from student s1_0 where s1_0.email=?]; SQL [n/a]",
+  "path": "/api/v1/students"
+}
